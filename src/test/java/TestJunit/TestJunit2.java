@@ -7,6 +7,7 @@ import MessageUtil.MessageUtil;
 public class TestJunit2 {
 
     String message = "Hello World";
+    String message = "Hello World1";
     MessageUtil messageUtil = new MessageUtil(message);
 
     @Test
